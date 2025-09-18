@@ -1,0 +1,40 @@
+ Visual Studio временные файлы
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# —борки
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Rider
+.idea/
+
+# ѕакеты Node.js (если есть)
+node_modules/
+
+# Ћоги и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Mac OS файлы
+.DS_Store
+
+# Windows системные файлы
+Thumbs.db
+ehthumbs.db
+Desktop.ini
