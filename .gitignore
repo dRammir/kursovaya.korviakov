@@ -38,3 +38,6 @@ node_modules/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# База данных
+db_data/
